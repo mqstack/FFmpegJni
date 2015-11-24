@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="get_order_name">
+        <item>抽取视频0</item>
+        <item>抽取视频1</item>
+        <item>抽取视频2</item>
+        <item>抽取视频3</item>
+        <item>抽取视频4</item>
+        
+    </string-array>
+    
+</resources>

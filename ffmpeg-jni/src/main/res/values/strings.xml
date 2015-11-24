@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FFMpegDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="get_video">ffmpeg -ss 2 -i /sdcard/XXX.mp4 -t 3 -vcodec copy -acodec copy /sdcard/YYY.mp4</string>
+
+</resources>

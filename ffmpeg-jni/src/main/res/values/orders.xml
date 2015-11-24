@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="get_order">
+        <item>ffmpeg -i /storage/emulated/0/DCIM/SportsCamera/YDXJ0624_thm.mp4 -ss 0 -t 10 -vcodec copy -acodec copy /sdcard/Y0.mp4</item>
+        <item>ffmpeg -i /storage/emulated/0/DCIM/SportsCamera/YDXJ0624_thm.mp4 -ss 10 -t 10 -vcodec copy -acodec copy /sdcard/Y1.mp4</item>
+        <item>ffmpeg -i /storage/emulated/0/DCIM/SportsCamera/YDXJ0624_thm.mp4 -ss 20 -t 10 -vcodec copy -acodec copy /sdcard/Y2.mp4</item>
+        <item>ffmpeg -i /storage/emulated/0/DCIM/SportsCamera/YDXJ0624_thm.mp4 -ss 30 -t 10 -vcodec copy -acodec copy /sdcard/Y3.mp4</item>
+        <item>ffmpeg -i /storage/emulated/0/DCIM/SportsCamera/YDXJ0624_thm.mp4 -ss 40 -t 10 -vcodec copy -acodec copy /sdcard/Y4.mp4</item>
+    </string-array>
+    
+</resources>
