@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="texts">
-        <item>抽取视频0</item>
-        <item>抽取视频1</item>
-        <item>抽取视频2</item>
-        <item>抽取视频3</item>
-        <item>抽取视频4</item>
+        <item>Cut0</item>
+        <item>Cut1</item>
+        <item>Cut2</item>
+        <item>Cut3</item>
+        <item>Cut4</item>
         
     </string-array>
     

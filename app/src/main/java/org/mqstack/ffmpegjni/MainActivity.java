@@ -8,6 +8,7 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 /**
  * Created by mqstack on 2015/11/23.
@@ -39,9 +40,11 @@ public class MainActivity extends Activity implements OnItemClickListener {
         String testCommand = commands[position];
         Log.e("testCommand", testCommand);
         if (ffmpegJni.ffmpegRunCommand(testCommand) == 0) {
-            Log.d("FFmpegJni", "生成成功");
+            Toast.makeText(this, "Cut success", Toast.LENGTH_LONG).show();
+            Log.d("FFmpegJni", "Cut success");
         } else {
-            Log.d("FFmpegJni", "生成失败");
+            Toast.makeText(this, "Cut failed", Toast.LENGTH_LONG).show();
+            Log.d("FFmpegJni", "Cut failed");
         }
     }
 }
