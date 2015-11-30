@@ -1,7 +1,7 @@
 #ifndef LOGJAM_H
 #define LOGJAM_H
 
-#include <android/log.h> 
+#include <android/log.h>
 
 #define LOGTAG "FFmpegJni"
 

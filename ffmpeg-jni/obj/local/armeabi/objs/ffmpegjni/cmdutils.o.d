@@ -1,5 +1,5 @@
-D:/myjob/FFmpegJni/ffmpeg-jni/obj/local/armeabi/objs/ffmpegjni/cmdutils.o: \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/cmdutils.c \
+d:/myjob/FFmpegJni/ffmpeg-jni/obj/local/armeabi/objs/ffmpegjni/cmdutils.o: \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/cmdutils.c \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/string.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h \
@@ -35,82 +35,80 @@ D:/myjob/FFmpegJni/ffmpeg-jni/obj/local/armeabi/objs/ffmpegjni/cmdutils.o: \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/machine/limits.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/syslimits.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/page.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/config.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/compat/va_copy.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/avformat.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/config.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/compat/va_copy.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/avformat.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/time.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/time.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/time.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/siginfo.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm-generic/siginfo.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdio.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/avcodec.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/samplefmt.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avutil.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/common.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/avcodec.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/samplefmt.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avutil.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/common.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/inttypes.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/attributes.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/macros.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avconfig.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mem.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/error.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/rational.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mathematics.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/intfloat.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/log.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixfmt.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/old_pix_fmts.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/attributes.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avutil.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/buffer.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/cpu.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/channel_layout.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/dict.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/frame.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/buffer.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/dict.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/samplefmt.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/log.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixfmt.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/rational.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/old_codec_ids.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/avio.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/common.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavfilter/avfilter.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavfilter/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavdevice/avdevice.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavdevice/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/opt.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavresample/avresample.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mathematics.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavresample/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswscale/swscale.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswscale/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswresample/swresample.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswresample/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libpostproc/postprocess.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libpostproc/version.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avassert.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avstring.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/bprint.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avstring.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/display.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/imgutils.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixdesc.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/libm.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/config.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/parseutils.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixdesc.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/eval.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/ffversion.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/cmdutils.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/network.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/error.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/os_support.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/attributes.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/macros.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avconfig.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mem.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/error.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/rational.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mathematics.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/intfloat.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/log.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixfmt.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/old_pix_fmts.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/attributes.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avutil.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/buffer.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/cpu.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/channel_layout.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/dict.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/frame.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/buffer.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/dict.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/samplefmt.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/log.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixfmt.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/rational.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/old_codec_ids.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/avio.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/common.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavfilter/avfilter.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavfilter/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavdevice/avdevice.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavdevice/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/opt.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavresample/avresample.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mathematics.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavresample/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswscale/swscale.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswscale/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswresample/swresample.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswresample/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libpostproc/postprocess.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libpostproc/version.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avassert.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avstring.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/bprint.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avstring.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/imgutils.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixdesc.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/parseutils.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixdesc.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/eval.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/ffversion.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/cmdutils.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/network.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/config.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/error.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/os_support.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/stat.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/stat.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/endian.h \
@@ -127,7 +125,7 @@ D:/myjob/FFmpegJni/ffmpeg-jni/obj/local/armeabi/objs/ffmpegjni/cmdutils.o: \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/sysconf.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/capability.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/pathconf.h \
- D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/url.h \
+ d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/url.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/socket.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/socket.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/socket.h \
@@ -223,11 +221,11 @@ C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/syslimits.h
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm/page.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/config.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/config.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/compat/va_copy.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/compat/va_copy.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/avformat.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/avformat.h:
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/time.h:
 
@@ -241,139 +239,135 @@ C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/asm-generic/sig
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/stdio.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/avcodec.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/avcodec.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/samplefmt.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/samplefmt.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avutil.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avutil.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/common.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/common.h:
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/inttypes.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/attributes.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/attributes.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/macros.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/macros.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avconfig.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avconfig.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mem.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mem.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/error.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/error.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/rational.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/rational.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mathematics.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mathematics.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/intfloat.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/intfloat.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/log.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/log.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixfmt.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixfmt.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/old_pix_fmts.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/old_pix_fmts.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/attributes.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/attributes.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avutil.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avutil.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/buffer.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/buffer.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/cpu.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/cpu.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/channel_layout.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/channel_layout.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/dict.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/dict.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/frame.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/frame.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/buffer.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/buffer.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/dict.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/dict.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/samplefmt.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/samplefmt.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/log.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/log.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixfmt.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixfmt.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/rational.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/rational.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/old_codec_ids.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavcodec/old_codec_ids.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/avio.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/avio.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/common.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/common.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavfilter/avfilter.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavfilter/avfilter.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavfilter/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavfilter/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavdevice/avdevice.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavdevice/avdevice.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavdevice/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavdevice/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/opt.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/opt.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavresample/avresample.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavresample/avresample.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mathematics.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/mathematics.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavresample/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavresample/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswscale/swscale.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswscale/swscale.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswscale/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswscale/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswresample/swresample.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswresample/swresample.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswresample/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libswresample/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libpostproc/postprocess.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libpostproc/postprocess.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libpostproc/version.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libpostproc/version.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avassert.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avassert.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avstring.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avstring.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/bprint.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/bprint.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avstring.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/avstring.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/display.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/imgutils.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/imgutils.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixdesc.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixdesc.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/parseutils.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/libm.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixdesc.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/config.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/eval.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/parseutils.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/ffversion.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/pixdesc.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/cmdutils.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/eval.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/network.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/ffversion.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/config.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/cmdutils.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/error.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/network.h:
-
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavutil/error.h:
-
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/os_support.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/os_support.h:
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/stat.h:
 
@@ -407,7 +401,7 @@ C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/linux/capabilit
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/pathconf.h:
 
-D:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/url.h:
+d:/myjob/FFmpegJni/ffmpeg-jni/jni/include/libavformat/url.h:
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/socket.h:
 

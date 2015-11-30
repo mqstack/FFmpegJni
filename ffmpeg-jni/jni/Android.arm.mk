@@ -2,37 +2,37 @@ LOCAL_PATH:= $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE:= avcodec-prebuilt-armeabi
-LOCAL_SRC_FILES:= prebuilt/armeabi/libavcodec-56.so
+LOCAL_SRC_FILES:= prebuilt/armeabi/libavcodec.so
 include $(PREBUILT_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE:= avdevice-prebuilt-armeabi
-LOCAL_SRC_FILES:= prebuilt/armeabi/libavdevice-56.so
+LOCAL_SRC_FILES:= prebuilt/armeabi/libavdevice.so
 include $(PREBUILT_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE:= avfilter-prebuilt-armeabi
-LOCAL_SRC_FILES:= prebuilt/armeabi/libavfilter-5.so
+LOCAL_SRC_FILES:= prebuilt/armeabi/libavfilter.so
 include $(PREBUILT_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE:= avformat-prebuilt-armeabi
-LOCAL_SRC_FILES:= prebuilt/armeabi/libavformat-56.so
+LOCAL_SRC_FILES:= prebuilt/armeabi/libavformat.so
 include $(PREBUILT_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE :=  avutil-prebuilt-armeabi
-LOCAL_SRC_FILES := prebuilt/armeabi/libavutil-54.so
+LOCAL_SRC_FILES := prebuilt/armeabi/libavutil.so
 include $(PREBUILT_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := swresample-prebuilt-armeabi
-LOCAL_SRC_FILES := prebuilt/armeabi/libswresample-1.so
+LOCAL_SRC_FILES := prebuilt/armeabi/libswresample.so
 include $(PREBUILT_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := swscale-prebuilt-armeabi
-LOCAL_SRC_FILES := prebuilt/armeabi/libswscale-3.so
+LOCAL_SRC_FILES := prebuilt/armeabi/libswscale.so
 include $(PREBUILT_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
