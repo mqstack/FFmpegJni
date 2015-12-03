@@ -55,7 +55,7 @@ LOCAL_SHARED_LIBRARIES:= avcodec-prebuilt-armeabi \
                          avformat-prebuilt-armeabi \
                          avutil-prebuilt-armeabi \
                          swresample-prebuilt-armeabi \
-                         swscale-prebuilt-armeabi
+                         swscale-prebuilt-armeabi \
 
 LOCAL_C_INCLUDES += -L$(SYSROOT)/usr/include
 LOCAL_C_INCLUDES += $(LOCAL_PATH)/include

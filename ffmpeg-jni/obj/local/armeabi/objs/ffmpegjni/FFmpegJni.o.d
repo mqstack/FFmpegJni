@@ -1,8 +1,8 @@
-d:/myjob/FFmpegJni/ffmpeg-jni/obj/local/armeabi/objs/ffmpegjni/FFmpegJni.o: \
- d:/myjob/FFmpegJni/ffmpeg-jni/jni/FFmpegJni.c \
- d:/myjob/FFmpegJni/ffmpeg-jni/jni/logjni.h \
+D:/myjob/FFmpegJni/ffmpeg-jni/obj/local/armeabi/objs/ffmpegjni/FFmpegJni.o: \
+ D:/myjob/FFmpegJni/ffmpeg-jni/jni/FFmpegJni.c \
+ D:/myjob/FFmpegJni/ffmpeg-jni/jni/logjni.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/android/log.h \
- d:/myjob/FFmpegJni/ffmpeg-jni/jni/FFmpegJni.h \
+ D:/myjob/FFmpegJni/ffmpeg-jni/jni/FFmpegJni.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/jni.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h \
@@ -27,11 +27,11 @@ d:/myjob/FFmpegJni/ffmpeg-jni/obj/local/armeabi/objs/ffmpegjni/FFmpegJni.o: \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h \
  C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/memory.h
 
-d:/myjob/FFmpegJni/ffmpeg-jni/jni/logjni.h:
+D:/myjob/FFmpegJni/ffmpeg-jni/jni/logjni.h:
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/android/log.h:
 
-d:/myjob/FFmpegJni/ffmpeg-jni/jni/FFmpegJni.h:
+D:/myjob/FFmpegJni/ffmpeg-jni/jni/FFmpegJni.h:
 
 C:/job/android-ndk-r10e/platforms/android-3/arch-arm/usr/include/jni.h:
 

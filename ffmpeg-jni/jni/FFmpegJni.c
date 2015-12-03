@@ -18,7 +18,7 @@ JNIEXPORT jint JNICALL Java_org_mqstack_ffmpegjni_FFmpegJni_run(JNIEnv *env, job
         for (i = 0; i < argc; ++i) {
             strr[i] = (jstring)(*env)->GetObjectArrayElement(env, args, i);
             argv[i] = (char *)(*env)->GetStringUTFChars(env, strr[i], 0);
-//            LOGD("args: %s", argv[i]);
+            LOGD("ffmpeg args: %s", argv[i]);
         }
     }
 

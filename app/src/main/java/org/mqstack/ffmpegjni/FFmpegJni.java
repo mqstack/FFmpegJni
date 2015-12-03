@@ -22,7 +22,7 @@ public class FFmpegJni {
         if (command.isEmpty()) {
             return 1;
         }
-        String[] args = command.split(" ");
+        String[] args = command.split("###");
         for (int i = 0; i < args.length; i++) {
             Log.d("ffmpeg-jni", args[i]);
 

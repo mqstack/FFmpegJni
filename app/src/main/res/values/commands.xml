@@ -5,7 +5,9 @@
         <item>ffmpeg -i /storage/emulated/0/X0.mp4 -ss 10 -t 10 -vcodec copy -acodec copy -y /sdcard/Y1.mp4</item>
         <item>ffmpeg -i /storage/emulated/0/X0.mp4 -ss 20 -t 10 -vcodec copy -acodec copy -y /sdcard/Y2.mp4</item>
         <item>ffmpeg -i /storage/emulated/0/X0.mp4 -ss 30 -t 10 -vcodec copy -acodec copy -y /sdcard/Y3.mp4</item>
-        <item>ffmpeg -i /storage/emulated/0/X0.mp4 -ss 40 -t 10 -vcodec copy -acodec copy -y /sdcard/Y4.mp4</item>
+        <item>ffmpeg###-i###/storage/emulated/0/X0.mp4###-s###160x90###-acodec###copy###-y###/sdcard/Y4.mp4</item>
+        <item>ffmpeg###-i###/storage/emulated/0/X0.mp4###-vf###\"movie=/storage/emulated/0/test.png [logo]; [in][logo] overlay=10:10 [out]\"###-acodec###copy###-y###/sdcard/Y5.mp4</item>
+        <item>ffmpeg###-i###/storage/emulated/0/X0.mp4###-i###/storage/emulated/0/test.png###-filter_complex###overlay=10:10:enable=\'between(t,0,5)\'###-acodec###copy###-y###/sdcard/Y6.mp4</item>
     </string-array>
     
 </resources>

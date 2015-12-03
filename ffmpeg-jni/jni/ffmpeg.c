@@ -3919,6 +3919,7 @@ int main(int argc, char **argv) {
         argv++;
     }
 
+    LOGD("start init~~");
     avcodec_register_all();
 #if CONFIG_AVDEVICE
     avdevice_register_all();
@@ -3931,6 +3932,7 @@ int main(int argc, char **argv) {
 
     term_init();
 
+    LOGD("start parse option~~");
     /* parse options and open all input/output files */
     ret = ffmpeg_parse_options(argc, argv);
     if (ret < 0) {
@@ -3956,6 +3958,7 @@ int main(int argc, char **argv) {
 //     }
 
     current_time = ti = getutime();
+    LOGD("start transcode~~");
     if (transcode() < 0) {
         LOGD("failed~~");
         return 1;
@@ -3969,6 +3972,7 @@ int main(int argc, char **argv) {
     if ((decode_error_stat[0] + decode_error_stat[1]) * max_error_rate < decode_error_stat[1])
         LOGD("log error");
 
+    LOGD("start clean~~");
     ffmpeg_cleanup(0);
     return main_return_code;
 }

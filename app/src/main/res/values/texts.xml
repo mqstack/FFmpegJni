@@ -5,8 +5,10 @@
         <item>Cut1</item>
         <item>Cut2</item>
         <item>Cut3</item>
-        <item>Cut4</item>
-        
+        <item>resize</item>
+        <item>Add pic</item>
+        <item>Add pic 2</item>
+
     </string-array>
     
 </resources>
